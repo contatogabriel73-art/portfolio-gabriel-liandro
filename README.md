@@ -40,7 +40,7 @@ Abra http://127.0.0.1:4173. A compilação estática fica em `dist/`.
 - `portfolio/`: PDF para apresentação profissional.
 - `scripts/`: compilação e prévia local.
 
-[Abrir o site público do portfólio](https://gabriel-luiz-leandro-portfolio.pebblyglove.chatgpt.site/)
+[Abrir o site público do portfólio](https://contatogabriel73-art.github.io/portfolio-gabriel-liandro/)
 
 ## Sites feitos com IA
 
@@ -49,4 +49,8 @@ Site demonstrativo de restaurante com identidade vinho e creme, cardápio intera
 
 A apresentação foi capturada do site local, acelerada em 1,7× e finalizada com trilha instrumental original. Duração aproximada: 40 segundos. Dados fictícios e reserva simulada; sem backend de reservas nesta versão.
 
-[Ver apresentação no portfólio](https://gabriel-luiz-leandro-portfolio.pebblyglove.chatgpt.site/#sites-ia) · [Arquivo do vídeo](public/media/brasa-espeto-apresentacao.mp4)
+[Ver apresentação no portfólio](https://contatogabriel73-art.github.io/portfolio-gabriel-liandro/#sites-ia) · [Arquivo do vídeo](public/media/brasa-espeto-apresentacao.mp4)
+
+## Publicação no GitHub Pages
+
+O site público é servido a partir de `docs/`. Depois de editar o código, execute `npm run build:pages` e envie as alterações de `docs/` junto com o código. Os caminhos de imagens e vídeos são ajustados para o endereço do projeto. O site é estático e não utiliza banco de dados.
