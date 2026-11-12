@@ -40,4 +40,13 @@ Abra http://127.0.0.1:4173. A compilação estática fica em `dist/`.
 - `portfolio/`: PDF para apresentação profissional.
 - `scripts/`: compilação e prévia local.
 
-O site original está publicado como prévia privada. Este repositório reúne uma cópia independente do código e do material do portfólio.
+[Abrir o site público do portfólio](https://gabriel-luiz-leandro-portfolio.pebblyglove.chatgpt.site/)
+
+## Sites feitos com IA
+
+### Brasa & Espeto
+Site demonstrativo de restaurante com identidade vinho e creme, cardápio interativo e movimentos de rolagem. React, Tailwind CSS e GSAP/ScrollTrigger.
+
+A apresentação foi capturada do site local, acelerada em 1,7× e finalizada com trilha instrumental original. Duração aproximada: 40 segundos. Dados fictícios e reserva simulada; sem backend de reservas nesta versão.
+
+[Ver apresentação no portfólio](https://gabriel-luiz-leandro-portfolio.pebblyglove.chatgpt.site/#sites-ia) · [Arquivo do vídeo](public/media/brasa-espeto-apresentacao.mp4)

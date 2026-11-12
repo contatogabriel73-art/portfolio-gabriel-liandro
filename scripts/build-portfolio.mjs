@@ -16,7 +16,7 @@ const markup=createRequire(path.join(root,'package.json'))('./.sites-runtime/pag
 await copyFile('app/globals.css','dist/style.css');
 await copyFile('public/favicon.svg','dist/favicon.svg');
 await cp('public/media','dist/media',{recursive:true});
-await writeFile('dist/index.html',`<!doctype html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#141613"><title>Gabriel Luiz Liandro | Vídeos e imagens com IA</title><meta name="description" content="Vídeos e imagens com inteligência artificial, edição com CapCut e um olhar de marketing digital. Conheça Gabriel Luiz Liandro."><link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/style.css"></head><body><div id="root">${markup}</div><script type="module" src="/app.js"></script></body></html>`);
+await writeFile('dist/index.html',`<!doctype html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#141613"><title>Gabriel Luiz Liandro | Animações e sites com IA</title><meta name="description" content="Animações, vídeos e sites com inteligência artificial. Conheça os projetos de Gabriel Luiz Liandro."><link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/style.css"></head><body><div id="root">${markup}</div><script type="module" src="/app.js"></script></body></html>`);
 console.log('Portfólio pronto em dist/');
 
 
