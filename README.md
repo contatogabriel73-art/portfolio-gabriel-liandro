@@ -8,6 +8,12 @@ Animação 3D com inteligência artificial, histórias do cotidiano e estudos pu
 
 ## Projetos
 
+### Nem começou e já quer férias
+Vídeo autoral de 15,7 segundos: ligação de contratação, primeiro dia no escritório e a pergunta das férias. Três clipes, quatro gravações de voz sincronizadas, título branco e legendas, com ambiente ao fundo e sem música.
+
+[Assistir ao vídeo mais recente](https://contatogabriel73-art.github.io/portfolio-gabriel-liandro/#emprego)
+
+
 ### Ah, agora tu escuta!
 Vídeo autoral de aproximadamente 10 segundos sobre um cachorro que ignora o chamado, mas aparece ao ouvir um pacote. A ideia explora humor e identificação na convivência.
 
