@@ -50,6 +50,13 @@ Abra http://127.0.0.1:4173. A compilação estática fica em `dist/`.
 
 ## Sites feitos com IA
 
+### VELO
+Loja conceito de bicicletas: vitrine interativa com "ilha flutuante" gerada com IA, catálogo de 19 produtos com busca e filtros, comparação de até três bikes, página de produto com cor, tamanho e entrega, e sacola salva no navegador. HTML, CSS e JavaScript.
+
+Apresentação em motion design de 39 segundos, animada em HTML/CSS/JS com peças reais do site e trilha instrumental original. Marca e preços fictícios; sem pagamento ou pedidos reais.
+
+[Ver apresentação no portfólio](https://contatogabriel73-art.github.io/portfolio-gabriel-liandro/#velo) · [Arquivo do vídeo](public/media/velo-apresentacao.mp4)
+
 ### Brasa & Espeto
 Site demonstrativo de restaurante com identidade vinho e creme, cardápio interativo e movimentos de rolagem. React, Tailwind CSS e GSAP/ScrollTrigger.
 
