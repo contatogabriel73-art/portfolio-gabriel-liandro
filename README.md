@@ -50,6 +50,13 @@ Abra http://127.0.0.1:4173. A compilação estática fica em `dist/`.
 
 ## Sites feitos com IA
 
+### Moenda Café
+Site conceito de cafeteria com abertura em "filme na rolagem": um vídeo gerado com IA, do grão à xícara, dividido em 190 quadros que avançam com a rolagem. Inclui história com números animados, cardápio em abas, origens em faixa horizontal, processo, depoimentos e visita. HTML, CSS e JavaScript.
+
+Apresentação em motion design de 36 segundos, animada em HTML/CSS/JS com peças reais do site e trilha lo-fi original. Marca, endereço e preços fictícios.
+
+[Ver apresentação no portfólio](https://contatogabriel73-art.github.io/portfolio-gabriel-liandro/#moenda) · [Arquivo do vídeo](public/media/moenda-apresentacao.mp4)
+
 ### VELO
 Loja conceito de bicicletas: vitrine interativa com "ilha flutuante" gerada com IA, catálogo de 19 produtos com busca e filtros, comparação de até três bikes, página de produto com cor, tamanho e entrega, e sacola salva no navegador. HTML, CSS e JavaScript.
 
